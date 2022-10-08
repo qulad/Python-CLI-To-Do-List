@@ -1,0 +1,74 @@
+{
+    "lang": "dil",
+    "app_name": "\n-------------------- Komut İstemi Arayüzü Yapılacaklar Listesi --------------------",
+    "welcome_text": "Yapılacaklar listesine hoşgeldiniz\n",
+    "ask_input": "\n  Lütfen bir girdi seçiniz.",
+    "main_menu": {
+        "menu": "---------- Ana menü ----------",
+        "new_item": "Yeni not ekle",
+        "view_items": "Tüm notları görüntüle",
+        "edit_item": "Bir notu düzenle",
+        "delete_item": "Not sil",
+        "settings": "Ayarlara girin",
+        "about": "Bu uygulama hakkında",
+        "exit": "Uygulamadan çıkın"
+    },
+    "exit_menu": {
+        "exit_text": "\n\nUygulamadan çıkılıyor..."
+    },
+    "about_menu": {
+        "menu": "---------- Bu uygulama hakkında ----------",
+        "creator": "Programcı: Ahmet Ertuğrul KAYA",
+        "version": "Versiyon: 1.0.0",
+        "about": "Bu uygulama hakkında: Bu bir öğrenci tarafından yapılan çok dil destekli bir Yapılacaklar Listesi utgulamasıdır.",
+        "main_menu": "Ana sayfaya gidin",
+        "exit": "Uygulamadan çıkın",
+        "social": {
+            "github": "github: qulad",
+            "instagram": "instagram: pathjuk.py"
+        }
+    },
+    "settings_menu": {
+        "menu": "---------- Ayarlar ----------",
+        "text": "Lütfen aşağıdan bir dil seçiniz",
+        "language": {
+            "en": "İngilize",
+            "tr": "Türkçe"
+        },
+        "changed": "  Ayarlar başarı ile değiştirildi."
+    },
+    "new_item_menu": {
+        "menu": "---------- Yeni not ekle ----------",
+        "item_name": "  Lütfen yeni notunuz için bir başlık giriniz: ",
+        "item_text": "  Lütfen yeni notunuzu giriniz: ",
+        "added_item": "  Yeni not başarı ile eklenmiştir."
+    },
+    "all_notes_menu": {
+        "menu": "---------- Tüm notları görüntüle ----------",
+        "description": "  Tüm notlar gösteriliyor:",
+        "created": " Oluşturulma tarihi: ",
+        "updated": " Güncelleştirme tarihi: ",
+        "item_name": " Notun adı: ",
+        "item_text": " Not: "
+    },
+    "delete_notes_menu": {
+        "menu": "---------- Bir notu sil ----------",
+        "description": "  Tüm notlar gösteriliyor, lütfen silmek için birini seçiniz:",
+        "created": " Oluşturulma tarihi: ",
+        "updated": " Güncelleştirme tarihi: ",
+        "item_name": " Notun adı: ",
+        "item_text": " Not: ",
+        "deleted": "  Not başarı ile silindi."
+    },
+    "edit_notes_menu": {
+        "menu": "---------- Bir notu düzenle ----------",
+        "description": "  Tüm notlar gösteriliyor, lütfen düzenlemek için birini seçiniz:",
+        "created": " Oluşturulma tarihi: ",
+        "updated": " Güncelleştirme tarihi: ",
+        "item_name": " Notun adı: ",
+        "item_text": " Not: ",
+        "new_item_name": "  Notun yeni adı: ",
+        "new_item_text": "  Yeni not: ",
+        "edited": "  Not başırılı bir şelikde düzenlendi."
+    }
+}

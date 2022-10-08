@@ -1,0 +1,74 @@
+{
+    "lang": "language",
+    "app_name": "\n-------------------- CLI To-Do List --------------------",
+    "welcome_text": "Welcome to To-Do List\n",
+    "ask_input": "\n  Please select an input.",
+    "main_menu": {
+        "menu": "---------- Main menu ----------",
+        "new_item": "Add new note",
+        "view_items": "View all notes",
+        "edit_item": "Edit a note",
+        "delete_item": "Delete note",
+        "settings": "Access settings",
+        "about": "About this app",
+        "exit": "Exit this app"
+    },
+    "exit_menu": {
+        "exit_text": "\n\nExiting app..."
+    },
+    "about_menu": {
+        "menu": "---------- About this app ----------",
+        "creator": "Programmer: Ahmet Ertuğrul KAYA",
+        "version": "Version: 1.0.0",
+        "about": "About this app: This is a multi-language To-Do List app from a student.",
+        "main_menu": "Go to main menu",
+        "exit": "Exit this app",
+        "social": {
+            "github": "github: qulad",
+            "instagram": "instagram: pathjuk.py"
+        }
+    },
+    "settings_menu": {
+        "menu": "---------- Settings ----------",
+        "text": "Please select a language from below",
+        "language": {
+            "en": "English",
+            "tr": "Turkish"
+        },
+        "changed": "  Settings has been successfully updated."
+    },
+    "new_item_menu": {
+        "menu": "---------- Add new note ----------",
+        "item_name": "  Please enter a name for your new note: ",
+        "item_text": "  Please enter your new note: ",
+        "added_item": "  New note has been successfully added."
+    },
+    "all_notes_menu": {
+        "menu": "---------- View all notes ----------",
+        "description": "  Showing all notes:",
+        "created": " Created at: ",
+        "updated": " Updated at: ",
+        "item_name": " Name of note: ",
+        "item_text": " Note: "
+    },
+    "delete_notes_menu": {
+        "menu": "---------- Delete a note ----------",
+        "description": "  Showing all notes, please choose one to delete:",
+        "created": " Created at: ",
+        "updated": " Updated at: ",
+        "item_name": " Name of note: ",
+        "item_text": " Note: ",
+        "deleted": "  Note has been successfully deleted."
+    },
+    "edit_notes_menu": {
+        "menu": "---------- Edit a note ----------",
+        "description": "  Showing all notes, please choose one to edit:",
+        "created": " Created at: ",
+        "updated": " Updated at: ",
+        "item_name": " Name of note: ",
+        "item_text": " Note: ",
+        "new_item_name": "  New name of note: ",
+        "new_item_text": "  New note: ",
+        "edited": "  Note has been successfully edited."
+    }
+}
